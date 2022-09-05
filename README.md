@@ -1,0 +1,2 @@
+# FAQ-COLLAPSE
+FAQ Collapse using HTML , CSS and ,JVASCRIPT
